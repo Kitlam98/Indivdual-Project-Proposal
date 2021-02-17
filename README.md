@@ -22,7 +22,7 @@ I believe this project proposal can educate the team members with project manage
 
 ## Conceptual Design
 <p>
-The objective of this proposal is to educate the team members and I to sharpen the skills of working in a team for a programming project. Many of the program done as students were mainly done by individually. By proposing this, this can give students like me a better idea of software development where as a team can combine ideas to build a better software. My proposal for this project would be improve the design of the project. Have a better display for people to use. As a developer, it is our job to make the application as accessible to others as possible. There shouldn't be any confusion on how to use an ATM application. I would also like to add any transaction history that was done for the user to view.
+The objective of this proposal is to educate the team members and I to sharpen the skills of working in a team for a programming project. Many of the program done as students were mainly done by individually. By proposing this, this can give students like me a better idea of software development where as a team can combine ideas to build a better software. My proposal for this project would be improve the design of the project. Have a better display for people to use. As a developer, it is our job to make the application as accessible to others as possible. There shouldn't be any confusion on how to use an ATM application. I would also like to add any transaction history that was done for the user to view. Also, as well as fix anybugs there is in the project, there are missing classes like "depositSlot".
 </p>
 
 ## Background
