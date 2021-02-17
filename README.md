@@ -11,6 +11,9 @@ We have all come across ATMs in our cities and it is built on Java. This complex
 * Quit 
 </p>
 
+![alt text](https://github.com/Kitlam98/Indivdual-Project-Proposal/blob/master/ATM_UML.png)
+
+
 ## Project Relevance
 
 <p>
